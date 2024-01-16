@@ -2,6 +2,9 @@
 
 This is a simple command-line tool written in Go for generating and decoding QR codes using the skip2qrcode and tuotooqrcode packages.
 
+![QRCode](https://raw.githubusercontent.com/dhawal-pandya/qrcode-generator-decoder/main/site.png)
+
+
 ## Usage
 
 ### Generate QR Code
